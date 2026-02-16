@@ -1,0 +1,6 @@
+Hi! My name is Juyoung and I came to Berkeley as an exchange for one semester.
+I am really glad to be in this course since I have really wanted to learn web development.
+I liked that this course taught how to use Github. 
+Even though I am a CS student, I don't know much about Github and I am not comformatable with using it.
+My goal is to master not only web development but also using Github at the end of the semester.
+Thank you.
